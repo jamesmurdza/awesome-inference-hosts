@@ -1,5 +1,7 @@
 # List of cloud hosts for inference and fine-tuning
 
+A list of cloud hosting services offering resources for AI inference and fine-tuning:
+
 ## Hosts
 
 ### Inference:
