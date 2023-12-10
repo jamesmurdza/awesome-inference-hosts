@@ -12,4 +12,4 @@
 - [together.ai](https://www.together.ai/): Inference and fine-tuning. [68 shared endpoints](https://api.together.xyz/playground) and playgrounds for text and image generation. A40s, A100s and H100s. [Pricing](https://www.together.ai/pricing) scales to zero.
 - [brev.dev](https://brev.dev/): Focused on instance hosting and CLI tools. Ten types of GPU including A100s and H100s. Supports deploying to your existing AWS and GCP accounts. Serverless [prices](https://brev.dev/pricing) are constantly updated. Deploying to your existing cloud is free.
 - [gradient.ai](https://gradient.ai/): Focused on fine-tuning via CLI, Python, NodeJS and an online console to create and manage jobs.
-- [fireworks.ai](https://fireworks.ai/): Inference platform focused on CLI with a number of [shared endpoints](https://app.fireworks.ai/models). Supports LoRA addons. [Pricing](https://readme.fireworks.ai/page/pricing)https://readme.fireworks.ai/page/pricing.
+- [fireworks.ai](https://fireworks.ai/): Inference platform focused on CLI with a number of [shared endpoints](https://app.fireworks.ai/models). Supports LoRA addons. [Pricing](https://readme.fireworks.ai/page/pricing).
