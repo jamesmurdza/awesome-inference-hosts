@@ -17,6 +17,9 @@ A list of cloud hosting services offering resources for AI inference and fine-tu
 4. [**Replicate.com**](https://replicate.com/): Various preconfigured models and playgrounds for content generation.
 5. [**Gradient.ai**](https://gradient.ai/): Fine-tuning focus via CLI, Python, and NodeJS.
 6. [**Fireworks.ai**](https://fireworks.ai/): CLI-focused inference platform with shared endpoints.
+7. HuggingFace Spaces
+8. AWS Bedrock
+9. Google Vertex AI
 
 ## Table
 
