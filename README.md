@@ -4,25 +4,6 @@ A list of cloud hosting services offering resources for AI inference and fine-tu
 
 ## Hosts
 
-### Inference:
-1. [**Banana.dev**](https://banana.dev/): High-throughput inference hosting from GitHub repos.
-2. [**Fal.ai**](https://fal.ai/): Hosts inference and generation services with open-source model playgrounds.
-4. [**Lepton.ai**](https://lepton.ai/): Hosting and inference via CLI, easy HuggingFace model deployment.
-5. [**Titanml.co**](https://titanml.co/): CLI and enterprise-focused inference deployments.
-
-### Inference and Fine-Tuning:
-1. [**Anyscale.com**](https://anyscale.com/): Inference and fine-tuning with shared endpoints for popular models.
-2. [**Together.ai**](https://together.ai/): Provides inference and fine-tuning with multiple shared endpoints.
-3. [**Brev.dev**](https://brev.dev/): Instance hosting and CLI tools, supports AWS and GCP deployment.
-4. [**Replicate.com**](https://replicate.com/): Various preconfigured models and playgrounds for content generation.
-5. [**Gradient.ai**](https://gradient.ai/): Fine-tuning focus via CLI, Python, and NodeJS.
-6. [**Fireworks.ai**](https://fireworks.ai/): CLI-focused inference platform with shared endpoints.
-7. HuggingFace Spaces
-8. AWS Bedrock
-9. Google Vertex AI
-
-## Table
-
 | Service | Focus | GPU Types | Pricing | Additional Features |
 |------------------|-------|-----------|---------|---------------------|
 | [Banana.dev](https://www.banana.dev/) | High-throughput inference | Not specified | Scales to zero | Deploys from GitHub repo |
